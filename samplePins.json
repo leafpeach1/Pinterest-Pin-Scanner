@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Pasta",
+        "ingredients": [
+            { "ingredient": "Pasta", "quantity": "200", "unit": "g" },
+            { "ingredient": "Tomato Sauce", "quantity": "1", "unit": "cup" }
+        ]
+    },
+    {
+        "title": "Salad",
+        "ingredients": [
+            { "ingredient": "Lettuce", "quantity": "2", "unit": "cups" },
+            { "ingredient": "Tomato", "quantity": "1", "unit": "piece" }
+        ]
+    }
+]
